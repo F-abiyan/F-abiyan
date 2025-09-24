@@ -1,16 +1,50 @@
-## Hi there 👋
+# 🌿 Hi, I'm Cela Fabian!  
 
-<!--
-**F-abiyan/F-abiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs  
 
-Here are some ideas to get you started:
+## ✨ About Me
+- 🎓 I'm a student majoring in **Office Administration Automatization**  
+- 🎨 Passionate about **UI/UX Design** & **Business Development**  
+- 🌱 Always exploring ideas that merge **creativity, productivity, and technology**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Let's Connect!
+- [LinkedIn](https://linkedin.com/)  
+- [Instagram](https://instagram.com/)  
+
+---
+
+## 🌟 A Little More About Me
+💡 *I love creating experiences that are not only functional but also enjoyable.*  
+📖 Currently learning about the balance between **administration, design, and entrepreneurship**.  
+🎯 Goal: To contribute in shaping digital products that simplify life & empower people.  
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  
+![Cela's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)  
+
+</div>
+
+---
+
+## 🎮 Fun Section
+<p align="center">
+  <img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="200px" alt="Dorra the explorer"/>
+</p>
+
+---
+
+## 🌱 Inspiring Quote
+> "Simplicity is the ultimate sophistication." – Leonardo da Vinci  
+
+
+
+
+
+
+
